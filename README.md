@@ -1,4 +1,9 @@
-# PixelPlanets
+# Interspace Transport
+
+A game about running a delivery company in space.
+
+credit for all planetary assets and inspiration for the game goes to
+PixelPlanets
 
 A collection of Godot shaders to generate pixel planets. Try a web version here: https://deep-fold.itch.io/pixel-planet-generator
 
